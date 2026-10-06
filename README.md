@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Derin Özen 👋
 
-<!--
-**deromelo/deromelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate **Photonics** student at Izmir Institute of Technology (IZTECH). My academic work focuses on the intersection of optics, physics, and computational modeling. I am particularly interested in simulating optical phenomena and exploring advanced display technologies.
 
-Here are some ideas to get you started:
+## 🔬 Research & Academic Interests
+- **Optoelectronics:** OLED and QLED device architectures, space-charge-limited current (SCLC) mechanisms, and electroluminescence.
+- **Computational Photonics:** Simulating optical pulse propagation in non-dispersive media.
+- **Applied Physics:** Electromagnetism, classical mechanics, and advanced calculus in optical applications.
+- **Organizations:** Proud student member of **SPIE** and **Optica**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tools & Technologies
+- **Programming:** Python
+- **Libraries for Simulation & Analysis:** NumPy, Pandas, Matplotlib, SymPy
+- **Environment:** Jupyter Notebook, VS Code, macOS Terminal
+
+## 🚀 What I'm Currently Working On
+- Deepening my knowledge in blue polymer OLEDs and spectrofluorometric characterizations.
+- Developing Python scripts for modeling electric field envelopes and analyzing physical chemistry data.
+
+📫 **How to reach me:** derinozen@std.iyte.edu.tr
